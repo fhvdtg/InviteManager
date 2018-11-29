@@ -1,5 +1,5 @@
 [{
-		"name": "prefix",
+		"name": "+",
 		"aliases": [
 			"set-prefix",
 			"setprefix"
