@@ -1,12 +1,12 @@
 {
-	"devToken": "",
-	"owners": [],
-	"ownerGuildIds": [],
-	"proBotId": "",
-	"botAdd": "https://invitemanager.co/add-bot/",
-	"botSupport": "https://discord.gg/Am6p2Hs",
-	"botWebsite": "https://andreasgassmann.github.io/discord-invite-manager/",
-	"botPatreon": "https://www.patreon.com/invitemanager",
+	"devToken": "NTE3NzgwMTUwODMwNzU5OTM2.DuHMAg.QfdbvoTx8r1n7ANPOZswyQPVRE4",
+	"owners": [Yas.sine],
+	"ownerGuildIds": [Yas.sine],
+	"proBotId": "517780150830759936",
+	"botAdd": "!Mc Community ممنوع اضافة البوت ",
+	"botSupport": "https://discord.gg/TwrzBzX",
+	"botWebsite": "!Mc Community ممنوع اضافة البوت ",
+	"botPatreon": "!Mc Community ممنوع اضافة البوت ",
 	"commandLogChannel": "",
 	"feedbackChannel": "",
 	"logChannel": "",
@@ -16,13 +16,13 @@
 		"hostname": "localhost",
 		"username": "guest",
 		"password": "guest",
-		"prefix": ""
+		"prefix": "+"
 	},
 	"sequelize": {
 		"dialect": "mysql",
 		"host": "localhost",
 		"username": "root",
-		"password": "",
+		"password": "s",
 		"database": "im"
 	},
 	"discordBotsToken": ""
